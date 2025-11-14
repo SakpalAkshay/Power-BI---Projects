@@ -15,3 +15,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 <img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/c381c19b-3efd-4077-b33f-1ce7111eb1fd" />
 
+
+### Observation
+
+<img width="1352" height="741" alt="image" src="https://github.com/user-attachments/assets/554097bf-4f6b-42a9-840e-5d8e96028eb9" />
+
+
